@@ -3,7 +3,7 @@
 <h3 align="center">I'm Data / System Analyst with experience in developing requirements for information systems in finance industry, data warehouses, CRM systems, digital personal cabinets and mobile apps. </h3>
 
 <h3 align="center">I always look for professional growth, so I recently took one more course on Data analytics.</h3>
-<h3 align="center">I’d like to share with you some of the tasks with Python, SQL and Power BI, completed while the course. Your comments are welcomed:)</h3>
+<h3 align="center">I’d like to share with you some of the tasks with Python, SQL and Power BI, completed during the course. Your comments are welcomed:)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisa-portfolio&label=Profile%20views&color=0e75b6&style=flat" alt="alisa-portfolio" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alisa-zagrebina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alisa-zagrebina/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/alisademo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alisademo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/alisademo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alisademo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
