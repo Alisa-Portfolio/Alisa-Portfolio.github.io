@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alisa-portfolio&show_icons=true&locale=en&layout=compact" alt="alisa-portfolio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisa-portfolio&show_icons=true&locale=en" alt="alisa-portfolio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alisa-portfolio&show_icons=true&locale=en" alt="alisa-portfolio" /></p>
 
