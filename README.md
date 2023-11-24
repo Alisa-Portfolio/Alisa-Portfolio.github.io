@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisa</h1>
-<h3 align="center">A passionate Data Analyst from Israel.</h3>
+<h3 align="center">A passionate Data Analyst.</h3>
 <h3 align="center">I'm Data / System Analyst with experience in developing requirements for information systems in finance industry, data warehouses, CRM systems, digital personal cabinets and mobile apps. </h3>
 
 <h3 align="center">I always look for professional growth, so I recently took one more course on Data analytics.</h3>
